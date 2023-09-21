@@ -1,2 +1,3 @@
-# Photography-and-Portfolio
-Photography and Portfolio
+# photography-site
+
+Hi there! This is a simple and multipage photography website.
